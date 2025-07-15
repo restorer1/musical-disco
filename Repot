@@ -1,0 +1,12 @@
+# Online Banking App
+
+## Overview
+Full stack banking platform with:
+- Node.js backend (Express, JWT auth, MongoDB Atlas)
+- React frontend (login, protected user/admin dashboards)
+
+## Setup
+
+### 1. Clone the repo
+```bash
+git clone https://github.com/restorer1/online-banking-app.git
